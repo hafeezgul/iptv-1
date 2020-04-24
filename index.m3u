@@ -58,3 +58,14 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xJYoW5I.png" group-title="INDIA",Vasantham
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Xfrg0x4.png" group-title="",RTVA (Opt-1)
+https://videos.rtva.ad/live/rtva/chunklist_w1082760031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Xfrg0x4.png" group-title="",RTVA (Opt-2)
+https://videos.rtva.ad/live/web/chunklist_w1342231881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="",RTVA (Opt-3)
+http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="",RTVA (Opt-4)
+http://videos.rtva.ad:1935/live/web/playlist.m3u8
