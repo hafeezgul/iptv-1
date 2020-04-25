@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,9x Tashan
-rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
-#EXTINF:-1,asianet-middle-east-live/
-rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
-#EXTINF:-1,asianet-movies-live/
-rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
-#EXTINF:-1,asianet-news-live/
-rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia0.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
 #EXTINF:-1,B4U
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 
@@ -15,7 +7,7 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
 #EXTINF:-1,BOLLYWOOD CINEMA
-rtsp://46.249.213.87/broadcast/bollywoodcinema1-tablet.3gp
+
 #EXTINF:-1,BOLLYWOOD CINEMA 2
 rtsp://46.249.213.87/broadcast/bollywoodcinema2-tablet.3gp
 #EXTINF:-1,Bollywood Gossip
